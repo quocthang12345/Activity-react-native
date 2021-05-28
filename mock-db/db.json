@@ -1,0 +1,83 @@
+{
+  "activities": [
+    {
+      "id": 1,
+      "title": "Play Soccer",
+      "img": "football.png",
+      "item": [
+        {
+          "img": "football-shirt.png",
+          "itemName": "Soccer Shoes",
+          "price": "500k",
+          "quantity": 1
+        },
+        {
+          "img": "soccer-shoe.png",
+          "itemName": "Soccer Clothes",
+          "price": "1500k",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Play BasketBall",
+      "img": "basketball-players.png"
+    },
+    {
+      "id": 3,
+      "title": "Play Snow",
+      "img": "winter.png"
+    },
+    {
+      "id": 4,
+      "title": "Play Soccer",
+      "img": "football.png"
+    },
+    {
+      "id": 5,
+      "title": "Play BasketBall",
+      "img": "basketball-players.png"
+    },
+    {
+      "id": 6,
+      "title": "Play Snow",
+      "img": "winter.png"
+    },
+    {
+      "id": 7,
+      "title": "Play Soccer",
+      "img": "football.png"
+    },
+    {
+      "id": 8,
+      "title": "Play BasketBall",
+      "img": "basketball-players.png"
+    },
+    {
+      "id": 9,
+      "title": "Play Snow",
+      "img": "winter.png"
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "time": "01:45",
+      "note": "Wake me Up",
+      "quantity": 5
+    },
+    {
+      "id": 2,
+      "time": "04:15",
+      "note": "Go To School",
+      "quantity": 5
+    },
+    {
+      "id": 3,
+      "time": "04:30",
+      "note": "Alarm",
+      "quantity": 5
+    }
+  ]
+}
